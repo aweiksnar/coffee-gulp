@@ -1,1 +1,1 @@
-gulp coffee setup
+gulp coffee browserify stylus setup

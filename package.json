@@ -1,5 +1,5 @@
 {
-  "name": "zooniverse-coffee-ractive-app",
+  "name": "coffee-gulp",
   "version": "0.0.1",
   "scripts": {
     "start": "gulp"
